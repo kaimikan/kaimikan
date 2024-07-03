@@ -1,2 +1,2 @@
 ### yo 🐜
-currently learning *python*, *react* and *general programming practices*
+currently focused on *web development*
