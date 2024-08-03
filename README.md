@@ -1,4 +1,4 @@
-<div style="text-align: center; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;">
+<div align='center' style="font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;">
   <h1> 👋 Hi there! I'm  <a href="https://kaimikan.github.io/">Kai</a> 🙂</h1>
   <h5>Software Engineer from 🇧🇬 Bulgaria</h5>
   <h3>Tools I code with</h3>
