@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
   <h1> 👋 Hi there! I'm  <a href="https://kaimikan.github.io/">Kai</a> 🙂</h1>
   <h5>Software Developer from 🇧🇬 Bulgaria</h5>
   <table>
     <tr>
-      <td align="right"><b>Code</b></td>
+      <td align="left"><b>Code</b></td>
       <td>
         <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff" alt="HTML" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" />
@@ -17,7 +17,7 @@
       </td>
     </tr>
     <tr>
-      <td align="right"><b>Data &amp; tooling</b></td>
+      <td align="left"><b>Data &amp; tooling</b></td>
       <td>
         <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
         <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" alt="Linux" />
@@ -29,14 +29,14 @@
       </td>
     </tr>
     <tr>
-      <td align="right"><b>LLM tools</b></td>
+      <td align="left"><b>LLM tools</b></td>
       <td>
         <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude" />
         <img src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=fff" alt="Gemini" />
       </td>
     </tr>
     <tr>
-      <td align="right"><b>Learning</b></td>
+      <td align="left"><b>Learning</b></td>
       <td>
         <img src="https://img.shields.io/badge/PrusaSlicer-FA6831" alt="PrusaSlicer" />
         <img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff" alt="Arduino" />
